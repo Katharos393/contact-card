@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/contact-card/static/css/main.1f573da5.css",
+    "main.js": "/contact-card/static/js/main.8577e8f4.js",
+    "static/media/zoro.jpeg": "/contact-card/static/media/zoro.cd6dd34f8ac2a95e9bcf.jpeg",
+    "static/media/robin.jpg": "/contact-card/static/media/robin.8d2f0881f7bf4d597821.jpg",
+    "static/media/franky.jpg": "/contact-card/static/media/franky.466099584df291cb4918.jpg",
+    "static/media/brook.jpg": "/contact-card/static/media/brook.4e52a12ebc84f3a1df2f.jpg",
+    "static/media/chopper.jpg": "/contact-card/static/media/chopper.4ad283e83afaf4c9910a.jpg",
+    "static/media/sanji.jpg": "/contact-card/static/media/sanji.30d71da9e95efb5a6a0e.jpg",
+    "static/media/usopp.jpg": "/contact-card/static/media/usopp.fe30eae0bd8b4fd9ba57.jpg",
+    "static/media/luffy.jpeg": "/contact-card/static/media/luffy.2b7a07833c43b7402e31.jpeg",
+    "static/media/nami.jpg": "/contact-card/static/media/nami.7f6d9e1935f12656712d.jpg",
+    "index.html": "/contact-card/index.html",
+    "main.1f573da5.css.map": "/contact-card/static/css/main.1f573da5.css.map",
+    "main.8577e8f4.js.map": "/contact-card/static/js/main.8577e8f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f573da5.css",
+    "static/js/main.8577e8f4.js"
+  ]
+}
