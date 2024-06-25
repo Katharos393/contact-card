@@ -4,7 +4,7 @@
 
 # Description
 
-This project is making a simple contact-card containing the contact information.\ 
+This project is making a simple contact-card containing the contact information.\
 This simple project helps to understand the 'props' concept in react.
 
 # Getting Started with Create React App
