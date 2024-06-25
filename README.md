@@ -1,3 +1,7 @@
+# Page Preview
+
+![Screenshot 2024-06-25 181252](https://github.com/Katharos393/contact-card/assets/111055532/4c18733c-f11a-4638-97fb-f73f49bb1b93)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
